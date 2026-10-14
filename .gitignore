@@ -1,0 +1,13 @@
+# python缓存，你截图里的 __pycache__
+__pycache__/
+*.pyc
+*.pyo
+
+# outputs输出文件夹，整个文件夹全部忽略
+outputs/
+
+# 环境、日志
+*.log
+.env
+.venv/
+venv/

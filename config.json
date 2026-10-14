@@ -1,0 +1,22 @@
+{
+  "height_m": 1.75,
+  "human_mass_kg": 70.0,
+  "step_height_m": 0.15,
+  "step_depth_m": 0.30,
+  "cycle_s": 2.4,
+  "dt_s": 0.001,
+  "imu_hz": 100,
+  "imu_delay_s": 0.02,
+  "accel_noise_m_s2": 0.011772,
+  "gyro_noise_rad_s": 0.001,
+  "pitch_noise_deg": 0.3,
+  "pitch_bias_deg": 0.5,
+  "motor_rated_nm": 4.0,
+  "motor_peak_nm": 11.0,
+  "motor_mass_kg_assumed": 0.6,
+  "motor_lag_s_assumed": 0.02,
+  "motor_slew_nm_s_assumed": 80.0,
+  "assist_nm": 3.0,
+  "phase_shift_cycles": 0.0,
+  "seed": 42
+}
